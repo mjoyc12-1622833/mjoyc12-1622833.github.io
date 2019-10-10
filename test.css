@@ -1,0 +1,106 @@
+body{
+    background-image: url('Dark_Wood.png');
+}
+
+p{
+    color: white;
+    font-family: "Arial";
+    font-weight: bold;
+    font-style: italic;
+    font-size: 25px;
+    
+}
+
+h3{
+    color: #ffbc00;
+    font-size: 40px;
+    font-family: "Passion One";
+    margin-bottom: 0px;
+    text-decoration: underline; 
+    font-style: italic;
+    font-size: 50px;
+}
+
+li{
+
+}
+
+#Header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    background-color: #8e41d5;
+    border-radius: 35px;
+    text-shadow: 6px 6px;
+    text-decoration: underline;
+    box-shadow: 2px 5px white;
+    
+}
+
+#Header h1{
+    font-size: 60px; 
+    font-family: "Passion One"; 
+    color: #FFBC00; 
+    font-weight:bold;
+}
+
+#LeftNav{
+    width: 500px;
+    height: 550px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    float: left;
+    text-align: center;
+    padding-bottom: 8px;
+    background-color: #8e41d5;
+    border-radius: 35px;
+    box-shadow: 2px 5px white;
+}
+
+#LeftNav img{
+    
+}
+
+#LeftNav ul{
+
+}
+
+#LeftNav h3{
+
+}
+
+#Content{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    padding: 15px;
+    background-color: #8e41d5;
+    border-radius: 35px; 
+    box-shadow: 2px 5px white;
+}
+
+#Footer{
+    width: 2250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    background-color: #8e41d5;
+    border-radius: 35px;
+    box-shadow: 2px 5px white;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 0px;
+    font-size: 25px;
+}
