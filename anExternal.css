@@ -1,0 +1,100 @@
+body{
+    background-color:black;
+}
+
+h1 {
+    color: lightcoral;
+    font-family: "Brush Script MT";
+    font-size: 75px;
+}
+
+h2 {
+    color: lightseagreen;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+p {
+    color: black;
+    font-family: "Cambria";
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+}
+
+h3 {
+    color: lightsalmon;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+h4 {
+    color: black;
+    font-family: "Brush Script MT";
+    font-style: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+}
+#Header {
+    width: 1850px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    border: solid 8px black;
+    text-align: center;
+    border-radius: 15px;
+    background-color: lightgrey;
+}
+
+#Navigation {
+    width: 485px;
+    height: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    border: solid 8px black;
+    float: left;
+    padding-bottom: 15px;
+    border-radius: 15px;
+    background-color: lightgrey;
+}
+
+#Content {
+    width: 1350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    border: solid 8px black;
+    float: right;
+    padding-bottom: 15px;
+    border-radius: 15px;
+    background-color: lightgrey;
+}
+
+#Footer {
+    width: 1850px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    border: solid 8px black;
+    clear: both;
+    border-radius: 15px;
+    background-color: lightgrey;
+
+}
+
+ul {
+    list-style-type: none;
+    padding-left: 0px;
+    font-size: 25px;
+    text-align: center;
+}
